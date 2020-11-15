@@ -1,3 +1,9 @@
+A World ranking app to be used as a great foundation for lists/ranking in future projects. Completed in Next.js for the speed and optimization. Project can be seen here:
+
+<link>https://ranking-the-world-694f6cvgj.vercel.app/</link>
+
+Newest change features a light/dark mode theme changer.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
