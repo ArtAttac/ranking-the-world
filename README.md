@@ -1,4 +1,4 @@
-A World ranking app to be used as a great foundation for lists/ranking in future projects. Completed in Next.js for the speed and optimization. Project can be seen here:
+A World ranking app to be used as a great foundation for lists/ranking in future projects. Completed w/ React for frontend and Next.js in SSR for the speed and optimization. Project can be seen here:
 
 <link>https://ranking-the-world-694f6cvgj.vercel.app/</link>
 
